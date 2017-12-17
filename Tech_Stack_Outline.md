@@ -16,6 +16,7 @@
 1. [《程序设计导引及在线实践》](http://vdisk.weibo.com/s/amcPMzUtU13Yb)
 1. [《The C Programming Language》](https://www.amazon.cn/dp/B0011425T8/ref=sr_1_1?s=books&ie=UTF8&qid=1513490488&sr=1-1&keywords=c+programming+language)
 1. [《Essential C++》](https://www.amazon.cn/dp/B00E19SLYI/ref=sr_1_1?ie=UTF8&qid=1513489685&sr=8-1&keywords=essential+c%2B%2B)，[《C++ Primer》](https://www.amazon.cn/dp/B00ESUIL0O/ref=sr_1_1?ie=UTF8&qid=1513489693&sr=8-1&keywords=c%2B%2B+primer)，[《C++ Primer Problem Sets》](https://www.amazon.cn/dp/B00S6U4C6E/ref=sr_1_4?ie=UTF8&qid=1513489693&sr=8-4&keywords=c%2B%2B+primer)，[《Effective C++》](https://www.amazon.cn/dp/B004G72P24/ref=sr_1_1?ie=UTF8&qid=1513489677&sr=8-1&keywords=effective+c%2B%2B),[《深度探索C++对象模型》](https://www.amazon.cn/dp/B006QXQXTM/ref=sr_1_1?ie=UTF8&qid=1513489727&sr=8-1&keywords=%E6%B7%B1%E5%85%A5%E7%90%86%E8%A7%A3c%2B%2B%E5%AF%B9%E8%B1%A1%E6%A8%A1%E5%9E%8B)，[《STL源码剖析》](https://www.amazon.cn/dp/B017IJN07A/ref=sr_1_1?ie=UTF8&qid=1513489742&sr=8-1&keywords=stl%E6%BA%90%E7%A0%81%E5%89%96%E6%9E%90)
+1. [Emarcs in One Year](https://github.com/redguardtoo/mastering-emacs-in-one-year-guide)，[GNU Emarcs](http://www.gnu.org/software/emacs/)，[Org mode](http://orgmode.org/)
 
 ## Java ##
 
