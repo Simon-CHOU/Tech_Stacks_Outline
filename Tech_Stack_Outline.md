@@ -9,6 +9,7 @@
 
 ## C/C++ ##
 
+1. [cplusplus](http://www.cplusplus.com/)，[MSDN](https://msdn.microsoft.com/zh-cn/)
 1. [程序设计入门——C语言](http://www.icourse163.org/course/ZJU-199001)，[C语言程序设计进阶](http://www.icourse163.org/course/ZJU-200001)
 1. [LeetCode](https://leetcode.com/)
 1. [poj](http://poj.org/)
@@ -18,6 +19,7 @@
 
 ## Java ##
 
+1. [The Java™ Tutorials](https://docs.oracle.com/javase/tutorial/)
 1. [零基础学Java语言](http://www.icourse163.org/course/ZJU-1001541001)，[面向对象程序设计——Java语言](http://www.icourse163.org/course/ZJU-1001542001)
 1. [阿里云大学Java学习路线图](https://edu.aliyun.com/promotion/26?utm_content=m_26308)
 1. [阿里云大学编程语言](https://edu.aliyun.com/course/explore/programlanguage?spm=5176.8764702.aliyun-edu-developer-courselist.29.FTLyAv)
@@ -26,7 +28,7 @@
 1. [Java面向对象开发](https://edu.aliyun.com/course/35?spm=5176.10731491.0.0.R4awdD)
 1. [DAO开发实战业务分析](https://edu.aliyun.com/course/82?spm=5176.10731491.0.0.R4awdD)
 1. [Spring](http://spring.io/)
-1. [Android Docs](https://developer.android.google.cn/index.html)
+1. [Android Docs](https://developer.android.google.cn/index.html)，[《第一行代码:Android》](https://www.amazon.cn/dp/B01MSR5D04/ref=sr_1_1?s=books&ie=UTF8&qid=1513496261&sr=1-1&keywords=%E7%AC%AC%E4%B8%80%E8%A1%8C%E4%BB%A3%E7%A0%81)
 1. [Android 应用开发（中/英）](https://cn.udacity.com/course/new-android-fundamentals--ud851)
 1. [Android 基础：用户输入（中/英）](https://cn.udacity.com/course/android-basics-user-input--ud836)
 1. [Android 基础：用户界面（中/英）](https://cn.udacity.com/course/android-basics-user-interface--ud834)
@@ -37,6 +39,7 @@
 
 ## Python ##
 
+1. [Python 3 Doc](https://docs.python.org/3/)
 1. [廖雪峰Python教程](https://www.liaoxuefeng.com/wiki/0014316089557264a6b348958f449949df42a6d3a2e542c000)
 1. [Flask](http://flask.pocoo.org/)，[中文文档](http://docs.jinkan.org/docs/flask/)
 1. [OpenCV](https://opencv.org/)，[OpenCV-Python-tutorials](https://opencv-python-tutroals.readthedocs.io/en/latest/)
@@ -93,7 +96,7 @@
 1. [《算法竞赛 入门经典》](https://www.amazon.cn/dp/B078BWZ12V/ref=sr_1_7?s=books&ie=UTF8&qid=1513492829&sr=1-7&keywords=%E5%88%98%E6%B1%9D%E4%BD%B3)
 1. [《算法导论》](https://www.amazon.cn/dp/B00AK7BYJY/ref=sr_1_1?ie=UTF8&qid=1513492815&sr=8-1&keywords=%E7%AE%97%E6%B3%95%E5%AF%BC%E8%AE%BA)
 1. [操作系统-哈工大孙志岗](https://www.bilibili.com/video/av13169670/)，[《现代操作系统》](https://www.amazon.cn/dp/B0744TZHXL/ref=sr_1_1?s=books&ie=UTF8&qid=1513489519&sr=1-1&keywords=%E7%8E%B0%E4%BB%A3%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F)，[《UNIX环境高级编程》](https://www.amazon.cn/gp/product/B00KMR129E/ref=pd_bxgy_14_img_3?ie=UTF8&psc=1&refRID=J8GBTNZA00NHB7QJZA6M)，[《Linux内核完全剖析:基于0.12内核》](https://www.amazon.cn/dp/B001I9ZFUM/ref=sr_1_1?ie=UTF8&qid=1513492930&sr=8-1&keywords=linux+0.12)，[Linux内核完全剖析 在线资源](http://oldlinux.org/)
-1. [《网络是怎样连接的》](https://www.amazon.cn/dp/B01N6O8KF1/ref=sr_1_1?s=books&ie=UTF8&qid=1513491704&sr=1-1&keywords=%E7%BD%91%E7%BB%9C%E6%98%AF%E6%80%8E%E6%A0%B7%E8%BF%9E%E6%8E%A5%E7%9A%84)，[《计算机网络：自顶向下方法》](https://www.amazon.cn/dp/B00OB1AODW/ref=sr_1_1?s=books&ie=UTF8&qid=1513489532&sr=1-1&keywords=%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C+%E8%87%AA%E9%A1%B6%E5%90%91%E4%B8%8B%E6%96%B9%E6%B3%95)，[《UNIX网络编程(卷1):套接字联网API》](https://www.amazon.cn/dp/B011S72JB6/ref=sr_1_1?ie=UTF8&qid=1513493031&sr=8-1&keywords=unix%E7%BD%91%E7%BB%9C%E7%BC%96%E7%A8%8B)，[《UNIX网络编程卷2:进程间通信》](https://www.amazon.cn/gp/product/B012R5A29O/ref=pd_bxgy_14_img_2?ie=UTF8&psc=1&refRID=J8GBTNZA00NHB7QJZA6M)
+1. [《网络是怎样连接的》](https://www.amazon.cn/dp/B01N6O8KF1/ref=sr_1_1?s=books&ie=UTF8&qid=1513491704&sr=1-1&keywords=%E7%BD%91%E7%BB%9C%E6%98%AF%E6%80%8E%E6%A0%B7%E8%BF%9E%E6%8E%A5%E7%9A%84)，[《计算机网络：自顶向下方法》](https://www.amazon.cn/dp/B00OB1AODW/ref=sr_1_1?s=books&ie=UTF8&qid=1513489532&sr=1-1&keywords=%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C+%E8%87%AA%E9%A1%B6%E5%90%91%E4%B8%8B%E6%96%B9%E6%B3%95)，[《TCP/IP详解·卷1:协议》](https://www.amazon.cn/dp/B01HGINTJ2/ref=sr_1_1?s=books&ie=UTF8&qid=1513496276&sr=1-1&keywords=tcp+ip)，[《UNIX网络编程(卷1):套接字联网API》](https://www.amazon.cn/dp/B011S72JB6/ref=sr_1_1?ie=UTF8&qid=1513493031&sr=8-1&keywords=unix%E7%BD%91%E7%BB%9C%E7%BC%96%E7%A8%8B)，[《UNIX网络编程卷2:进程间通信》](https://www.amazon.cn/gp/product/B012R5A29O/ref=pd_bxgy_14_img_2?ie=UTF8&psc=1&refRID=J8GBTNZA00NHB7QJZA6M)
 1. [《编码:隐匿在计算机软硬件背后的语言》](https://www.amazon.cn/dp/B009RSXIB4/ref=sr_1_1?s=books&ie=UTF8&qid=1513491693&sr=1-1&keywords=%E7%BC%96%E7%A0%81)，[《深入理解计算机系统》](https://www.amazon.cn/dp/B01N03IQK4/ref=sr_1_1?s=books&ie=UTF8&qid=1513489554&sr=1-1&keywords=CSAPP),[Spring 2015 -- Computer Architecture Lectures -- Carnegie Mellon](https://www.youtube.com/watch?v=zLP_X4wyHbY&list=PL5PHm2jkkXmi5CxxI7b3JCL1TWybTDtKq)
 1. [坚持完成这套学习手册，你就可以去 Google 面试了](http://geek.csdn.net/news/detail/107064)
 
