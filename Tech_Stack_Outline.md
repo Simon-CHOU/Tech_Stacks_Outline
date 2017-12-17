@@ -14,7 +14,7 @@
 1. [Python](https://www.python.org/)
 1. [.NET](https://www.microsoft.com/net/download/windows)
 1. [Visual Studio](https://www.visualstudio.com/)，[Visual Studio Code](https://code.visualstudio.com/)，[Code::Blocks](http://www.codeblocks.org/)，[CodeLite IDE](https://codelite.org/)，[KDevelop](https://www.kdevelop.org/)
-1. [Eclipse](http://www.eclipse.org/)，[IntelliJ IDEA](https://www.jetbrains.com/idea/)
+1. [Eclipse](http://www.eclipse.org/)，[Maven](http://maven.apache.org/)，[Jetty](http://www.eclipse.org/jetty/)，[Tomcat](http://tomcat.apache.org/),[JUnit](http://junit.org/junit5/),[Checksytle](http://eclipse-cs.sourceforge.net/#!/),[TestNG](http://testng.org/doc/),[EclEmma](http://www.eclemma.org/),[FindBugs](http://findbugs.cs.umd.edu/eclipse/)，[IntelliJ IDEA](https://www.jetbrains.com/idea/)
 1. [PyCharm](https://www.jetbrains.com/pycharm/)
 1. [HBuilder](http://www.dcloud.io/)，[WebStrom](https://www.jetbrains.com/webstorm/)
 1. [Notpad++](https://notepad-plus-plus.org/)，[Emarcs in One Year](https://github.com/redguardtoo/mastering-emacs-in-one-year-guide)，[GNU Emarcs](http://www.gnu.org/software/emacs/)，[Org mode](http://orgmode.org/)，[Atom](https://atom.io/)，[Vim](http://www.vim.org/)，[Sublime Text](https://www.sublimetext.com/)
