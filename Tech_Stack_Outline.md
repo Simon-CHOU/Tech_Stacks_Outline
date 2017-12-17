@@ -7,6 +7,28 @@
 - 包含书名号（《》）的链接指向正版图书购买地址，不包含书名号的链接指向免费网络资源。
 - 所有列表大体按由浅入深的逻辑，按编号由小到大排序。
 
+## Compiler & Interpreter & IDE & Text Editor & Linux Distribution & other Tools ##
+
+1. [clang](http://clang.llvm.org/)，[GCC](http://gcc.gnu.org/)， [MinGW](http://www.mingw.org/)
+1. [Java Development Kit](http://www.oracle.com/technetwork/java/javase/downloads/index.html)
+1. [Python](https://www.python.org/)
+1. [.NET](https://www.microsoft.com/net/download/windows)
+1. [Visual Studio](https://www.visualstudio.com/)，[Visual Studio Code](https://code.visualstudio.com/)，[Code::Blocks](http://www.codeblocks.org/)，[CodeLite IDE](https://codelite.org/)，[KDevelop](https://www.kdevelop.org/)
+1. [Eclipse](http://www.eclipse.org/)，[IntelliJ IDEA](https://www.jetbrains.com/idea/)
+1. [PyCharm](https://www.jetbrains.com/pycharm/)
+1. [HBuilder](http://www.dcloud.io/)，[WebStrom](https://www.jetbrains.com/webstorm/)
+1. [Notpad++](https://notepad-plus-plus.org/)，[Emarcs in One Year](https://github.com/redguardtoo/mastering-emacs-in-one-year-guide)，[GNU Emarcs](http://www.gnu.org/software/emacs/)，[Org mode](http://orgmode.org/)，[Atom](https://atom.io/)，[Vim](http://www.vim.org/)，[Sublime Text](https://www.sublimetext.com/)
+1. [Ubuntu](https://www.ubuntu.com/global)，[CentOS](https://www.centos.org/)，[Kali Linux](https://www.kali.org/)，[Debian](https://www.debian.org/)，[Linux Mint](https://www.linuxmint.com/)，[FreeBSD](https://www.freebsd.org/zh_CN/)，[MINIX3](http://www.minix3.org/)，[FreeNOS](http://www.freenos.org/)
+1. [VirtualBox](https://www.virtualbox.org/)
+1. [WireShark](https://www.wireshark.org/)，[Nmap](https://nmap.org/)，[metasploit](https://www.metasploit.com/)，[Burp Suite](https://portswigger.net/burp/)
+1. [Xshell](http://www.netsarang.com/products/xsh_overview.html)
+1. [StarUML](http://staruml.io/)，[Xmind](https://www.xmind.cn/)，[墨刀](https://modao.cc/)，[ProcessOn](https://www.processon.com/)，[Microsoft Project](https://products.office.com/zh-cn/project/project-and-portfolio-management-software?tab=tabs-1)，[Microsoft Visio](https://products.office.com/zh-cn/visio/flowchart-software?tab=tabs-1)
+1. [禅道](http://www.zentao.net/)，[Jira](https://www.atlassian.com/software/jira)
+1. [WPS](http://www.wps.cn/),[福昕阅读器](https://www.foxitsoftware.cn/),[Adobe Digital Editions](http://www.adobe.com/cn/solutions/ebook/digital-editions.html),[极速Office](https://www.jisuoffice.com/),[Adobe Acrobat Reader](https://acrobat.adobe.com/cn/zh-Hans/products/pdf-reader.html),[OpenOffice](http://www.openoffice.org/),[LibreOffice](https://zh-cn.libreoffice.org/)
+1. [Firefox Developer Edition](https://www.mozilla.org/en-US/firefox/developer/)，[Firefox ESR](http://www.firefox.com.cn/download/#more)，[Chrome](http://www.google.cn/chrome/browser/desktop/index.html)
+1. [7zip](http://www.7-zip.org/)
+1. [shadowsocks](https://shadowsocks.org/en/index.html)
+
 ## C/C++ ##
 
 1. [cplusplus](http://www.cplusplus.com/)，[MSDN](https://msdn.microsoft.com/zh-cn/)
@@ -16,7 +38,6 @@
 1. [《程序设计导引及在线实践》](http://vdisk.weibo.com/s/amcPMzUtU13Yb)
 1. [《The C Programming Language》](https://www.amazon.cn/dp/B0011425T8/ref=sr_1_1?s=books&ie=UTF8&qid=1513490488&sr=1-1&keywords=c+programming+language)
 1. [《Essential C++》](https://www.amazon.cn/dp/B00E19SLYI/ref=sr_1_1?ie=UTF8&qid=1513489685&sr=8-1&keywords=essential+c%2B%2B)，[《C++ Primer》](https://www.amazon.cn/dp/B00ESUIL0O/ref=sr_1_1?ie=UTF8&qid=1513489693&sr=8-1&keywords=c%2B%2B+primer)，[《C++ Primer Problem Sets》](https://www.amazon.cn/dp/B00S6U4C6E/ref=sr_1_4?ie=UTF8&qid=1513489693&sr=8-4&keywords=c%2B%2B+primer)，[《Effective C++》](https://www.amazon.cn/dp/B004G72P24/ref=sr_1_1?ie=UTF8&qid=1513489677&sr=8-1&keywords=effective+c%2B%2B),[《深度探索C++对象模型》](https://www.amazon.cn/dp/B006QXQXTM/ref=sr_1_1?ie=UTF8&qid=1513489727&sr=8-1&keywords=%E6%B7%B1%E5%85%A5%E7%90%86%E8%A7%A3c%2B%2B%E5%AF%B9%E8%B1%A1%E6%A8%A1%E5%9E%8B)，[《STL源码剖析》](https://www.amazon.cn/dp/B017IJN07A/ref=sr_1_1?ie=UTF8&qid=1513489742&sr=8-1&keywords=stl%E6%BA%90%E7%A0%81%E5%89%96%E6%9E%90)
-1. [Emarcs in One Year](https://github.com/redguardtoo/mastering-emacs-in-one-year-guide)，[GNU Emarcs](http://www.gnu.org/software/emacs/)，[Org mode](http://orgmode.org/)
 
 ## Java ##
 
