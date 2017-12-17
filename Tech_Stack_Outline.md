@@ -32,7 +32,8 @@
 ## C/C++ ##
 
 1. [cplusplus](http://www.cplusplus.com/)，[MSDN](https://msdn.microsoft.com/zh-cn/)
-1. [程序设计入门——C语言](http://www.icourse163.org/course/ZJU-199001)，[C语言程序设计进阶](http://www.icourse163.org/course/ZJU-200001)
+1. [程序设计入门——C语言-翁恺](http://www.icourse163.org/course/ZJU-199001)，[C语言程序设计进阶-翁恺](http://www.icourse163.org/course/ZJU-200001)
+1. [C++-郑莉（旧）](https://www.bilibili.com/video/av15113473/),[C++-郑莉（新）](https://www.bilibili.com/video/av11459203/)，[PKU-C++程序设计](https://www.coursera.org/learn/cpp-chengxu-sheji)
 1. [LeetCode](https://leetcode.com/)
 1. [poj](http://poj.org/)
 1. [《程序设计导引及在线实践》](http://vdisk.weibo.com/s/amcPMzUtU13Yb)
