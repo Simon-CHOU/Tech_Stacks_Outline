@@ -27,6 +27,7 @@
 
 ## 学习指导
 
+1. [清华-计算机图形学导论](http://www.xuetangx.com/courses/course-v1:UC_BerkeleyX+CS_184_1x+sp/about)
 1. [知乎OpenGL 专题精华](https://www.zhihu.com/topic/19566193/top-answers)
 1. [Learn Computer Graphics From Scratch! 从零开始学习计算机图形学](http://www.scratchapixel.com/)
 1. [Modern OpenGL Tutorials](http://ogldev.atspace.co.uk/)
