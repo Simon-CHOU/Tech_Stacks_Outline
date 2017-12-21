@@ -9,7 +9,7 @@
 
 ## 点拨 ##
 
-1. [Teach Yourself Programming in Ten Years](http://norvig.com/21-days.html)
+1. [Teach Yourself Programming in Ten Years](https://zhuanlan.zhihu.com/p/30742986#comment-355424436)
 1. [Why Learning to Code is So Damn Hard](http://www.vikingcodeschool.com/posts/why-learning-to-code-is-so-damn-hard)
 1. [坚持完成这套学习手册，你就可以去 Google 面试了](http://geek.csdn.net/news/detail/107064)
 1. [提问的智慧](https://ruby-china.org/topics/24325)，[X-Y PROBLEM](https://coolshell.cn/articles/10804.html)
