@@ -117,6 +117,7 @@
 
 ## 专业基础 ##
 
+1. [计算机科学导论（中/英）-搭建搜索引擎和社交网络](https://cn.udacity.com/course/intro-to-computer-science--cs101)，[计算机程序设计-编程原则](https://cn.udacity.com/course/design-of-computer-programs--cs212)
 1. [Algorithms Part Ⅰ](https://www.coursera.org/learn/algorithms-part1)，[Algorithms Part Ⅱ](https://www.coursera.org/learn/algorithms-part2)，[《Algorithms 4th Edition》](https://www.amazon.cn/dp/B009OCFQ0O/ref=sr_1_1?s=books&ie=UTF8&qid=1513489542&sr=1-1&keywords=%E7%AE%97%E6%B3%95+%E7%AC%AC%E5%9B%9B%E7%89%88)
 1. [《Algorithms Unlocked》](https://www.amazon.cn/dp/B01983KTB4/ref=sr_1_2?s=books&ie=UTF8&qid=1513489637&sr=1-2&keywords=Algorithms+Unlocked)
 1. [《算法竞赛 入门经典》](https://www.amazon.cn/dp/B078BWZ12V/ref=sr_1_7?s=books&ie=UTF8&qid=1513492829&sr=1-7&keywords=%E5%88%98%E6%B1%9D%E4%BD%B3)
