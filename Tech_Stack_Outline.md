@@ -114,6 +114,7 @@
 
 ## Math ##
 
+1. [微积分的本质](https://www.bilibili.com/video/av10308208/)，[线性代数的本质](https://www.bilibili.com/video/av6731067/)
 1. [《普林斯顿微积分读本》](https://www.amazon.cn/dp/B01M28M4G6/ref=sr_1_1?ie=UTF8&qid=1513489259&sr=8-1&keywords=%E6%99%AE%E6%9E%97%E6%96%AF%E9%A1%BF%E5%BE%AE%E7%A7%AF%E5%88%86)
 1. [单变量微积分](http://open.163.com/special/sp/singlevariablecalculus.html)，[单变量微积分习题课](http://open.163.com/special/opencourse/calculus.html)
 1. [多变量微积分](http://open.163.com/special/opencourse/multivariable.html)，[多变量微积分习题课](http://open.163.com/special/opencourse/duobianliangweijifen.html)
