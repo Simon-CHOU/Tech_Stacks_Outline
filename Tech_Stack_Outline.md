@@ -7,6 +7,13 @@
 - 包含书名号（《》）的链接指向正版图书购买地址，不包含书名号的链接指向免费网络资源。
 - 所有列表大体按由浅入深的逻辑，按编号由小到大排序。
 
+## 点拨 ##
+
+1. [Teach Yourself Programming in Ten Years](http://norvig.com/21-days.html)
+1. [Why Learning to Code is So Damn Hard](http://www.vikingcodeschool.com/posts/why-learning-to-code-is-so-damn-hard)
+1. [坚持完成这套学习手册，你就可以去 Google 面试了](http://geek.csdn.net/news/detail/107064)
+1. [提问的智慧](https://ruby-china.org/topics/24325)，[X-Y PROBLEM](https://coolshell.cn/articles/10804.html)
+
 ## Compiler & Interpreter & IDE & Text Editor & Linux Distribution & other Tools ##
 
 1. [clang](http://clang.llvm.org/)，[GCC](http://gcc.gnu.org/)， [MinGW](http://www.mingw.org/)
@@ -125,7 +132,7 @@
 1. [清华-操作系统](http://www.xuetangx.com/courses/course-v1:TsinghuaX+30240243X+sp/about)，[操作系统-hit孙志岗](https://www.bilibili.com/video/av13169670/)，[操作系统-hit李治军](https://www.bilibili.com/video/av13044022/#page=1)，[《现代操作系统》](https://www.amazon.cn/dp/B0744TZHXL/ref=sr_1_1?s=books&ie=UTF8&qid=1513489519&sr=1-1&keywords=%E7%8E%B0%E4%BB%A3%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F)，[《UNIX环境高级编程》](https://www.amazon.cn/gp/product/B00KMR129E/ref=pd_bxgy_14_img_3?ie=UTF8&psc=1&refRID=J8GBTNZA00NHB7QJZA6M)，[《Linux内核完全剖析:基于0.12内核》](https://www.amazon.cn/dp/B001I9ZFUM/ref=sr_1_1?ie=UTF8&qid=1513492930&sr=8-1&keywords=linux+0.12)，[Linux内核完全剖析 在线资源](http://oldlinux.org/)
 1. [《网络是怎样连接的》](https://www.amazon.cn/dp/B01N6O8KF1/ref=sr_1_1?s=books&ie=UTF8&qid=1513491704&sr=1-1&keywords=%E7%BD%91%E7%BB%9C%E6%98%AF%E6%80%8E%E6%A0%B7%E8%BF%9E%E6%8E%A5%E7%9A%84)，[《计算机网络：自顶向下方法》](https://www.amazon.cn/dp/B00OB1AODW/ref=sr_1_1?s=books&ie=UTF8&qid=1513489532&sr=1-1&keywords=%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C+%E8%87%AA%E9%A1%B6%E5%90%91%E4%B8%8B%E6%96%B9%E6%B3%95)，[《TCP/IP详解·卷1:协议》](https://www.amazon.cn/dp/B01HGINTJ2/ref=sr_1_1?s=books&ie=UTF8&qid=1513496276&sr=1-1&keywords=tcp+ip)，[《UNIX网络编程(卷1):套接字联网API》](https://www.amazon.cn/dp/B011S72JB6/ref=sr_1_1?ie=UTF8&qid=1513493031&sr=8-1&keywords=unix%E7%BD%91%E7%BB%9C%E7%BC%96%E7%A8%8B)，[《UNIX网络编程卷2:进程间通信》](https://www.amazon.cn/gp/product/B012R5A29O/ref=pd_bxgy_14_img_2?ie=UTF8&psc=1&refRID=J8GBTNZA00NHB7QJZA6M)
 1. [《编码:隐匿在计算机软硬件背后的语言》](https://www.amazon.cn/dp/B009RSXIB4/ref=sr_1_1?s=books&ie=UTF8&qid=1513491693&sr=1-1&keywords=%E7%BC%96%E7%A0%81)，[《深入理解计算机系统》](https://www.amazon.cn/dp/B01N03IQK4/ref=sr_1_1?s=books&ie=UTF8&qid=1513489554&sr=1-1&keywords=CSAPP),[Spring 2015 -- Computer Architecture Lectures -- Carnegie Mellon](https://www.youtube.com/watch?v=zLP_X4wyHbY&list=PL5PHm2jkkXmi5CxxI7b3JCL1TWybTDtKq)
-1. [坚持完成这套学习手册，你就可以去 Google 面试了](http://geek.csdn.net/news/detail/107064)
+
 
 ## Big Data ##
 
