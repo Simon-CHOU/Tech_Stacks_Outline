@@ -148,6 +148,7 @@
     1. [描述统计学入门](https://cn.udacity.com/course/intro-to-descriptive-statistics--ud827)
     1. [Intro to Inferential Statistics(推论统计学入门)](https://cn.udacity.com/course/intro-to-inferential-statistics--ud201)
 - [深度学习(中/英)](https://cn.udacity.com/course/deep-learning--ud730)
+- [吴恩达 Andrew Ng 深度学习公开课](https://www.deeplearning.ai/)
 - [《机器学习》](https://www.amazon.cn/dp/B01ARKEV1G/ref=sr_1_1?ie=UTF8&qid=1513493607&sr=8-1&keywords=%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0)，[《统计学习方法》](https://www.amazon.cn/gp/product/B007TSFMTA/ref=pd_bxgy_14_img_2?ie=UTF8&psc=1&refRID=N576CS4ZT524GND3VJ00)，[《深度学习(deep learning)》](https://www.amazon.cn/gp/product/B073LWHBBY/ref=pd_bxgy_14_img_3?ie=UTF8&psc=1&refRID=N576CS4ZT524GND3VJ00)，[《机器学习实战》](https://www.amazon.cn/gp/product/B00D747PTK/ref=pd_bxgy_14_img_3?ie=UTF8&psc=1&refRID=1RG10AN7J3R6CRWNP2NW)
 
 ___________________________________________________________________________________________________
