@@ -30,12 +30,21 @@
 1. [VirtualBox](https://www.virtualbox.org/)
 1. [WireShark](https://www.wireshark.org/)，[Nmap](https://nmap.org/)，[metasploit](https://www.metasploit.com/)，[Burp Suite](https://portswigger.net/burp/)
 1. [Xshell](http://www.netsarang.com/products/xsh_overview.html)
+1. [PuTTY](https://www.putty.org/)
 1. [StarUML](http://staruml.io/)，[Xmind](https://www.xmind.cn/)，[墨刀](https://modao.cc/)，[ProcessOn](https://www.processon.com/)，[Microsoft Project](https://products.office.com/zh-cn/project/project-and-portfolio-management-software?tab=tabs-1)，[Microsoft Visio](https://products.office.com/zh-cn/visio/flowchart-software?tab=tabs-1)
 1. [禅道](http://www.zentao.net/)，[Jira](https://www.atlassian.com/software/jira)
 1. [WPS](http://www.wps.cn/),[福昕阅读器](https://www.foxitsoftware.cn/),[Adobe Digital Editions](http://www.adobe.com/cn/solutions/ebook/digital-editions.html),[极速Office](https://www.jisuoffice.com/),[Adobe Acrobat Reader](https://acrobat.adobe.com/cn/zh-Hans/products/pdf-reader.html),[OpenOffice](http://www.openoffice.org/),[LibreOffice](https://zh-cn.libreoffice.org/)
 1. [Firefox Developer Edition](https://www.mozilla.org/en-US/firefox/developer/)，[Firefox ESR](http://www.firefox.com.cn/download/#more)，[Chrome](http://www.google.cn/chrome/browser/desktop/index.html)
 1. [7zip](http://www.7-zip.org/)
 1. [shadowsocks](https://shadowsocks.org/en/index.html)
+
+## Linux/Unix ##
+
+1. [Linux Guide for Developers](https://www.imooc.com/learn/181)
+1. [Linux Survival](https://linuxsurvival.com/)
+1. [Unix Introduction](http://www.ee.surrey.ac.uk/Teaching/Unix/unixintro.html)
+1. [Filesystem Hierarchy Standard](https://en.wikipedia.org/wiki/Filesystem_Hierarchy_Standard)
+
 
 ## C/C++ ##
 
