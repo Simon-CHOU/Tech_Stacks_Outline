@@ -102,6 +102,8 @@
 
 1. [SQL 教程|菜鸟教程](http://www.runoob.com/sql/sql-tutorial.html)，[SQL 教程|W3School](http://www.w3school.com.cn/sql/)，[MySQL 教程|菜鸟教程](http://www.runoob.com/mysql/mysql-tutorial.html)
 1. [《MySQL必知必会》](https://www.amazon.cn/dp/B001NMTX9S/ref=sr_1_2?s=books&ie=UTF8&qid=1513490782&sr=1-2&keywords=mysql+%E5%BF%85%E7%9F%A5%E5%BF%85%E4%BC%9A)，[《SQL必知必会》](https://www.amazon.cn/dp/B00COG3W58/ref=sr_1_1?s=books&ie=UTF8&qid=1513490782&sr=1-1&keywords=mysql+%E5%BF%85%E7%9F%A5%E5%BF%85%E4%BC%9A)
+1. [PostgreSQL](https://www.postgresql.org/)
+1. [《Beginning.Databases.with.PostgreSQL.From.Novice.to.Professiona》](https://www.amazon.com/Beginning-Databases-PostgreSQL-Novice-Professional/dp/1590594789/ref=sr_1_1?ie=UTF8&qid=1520862945&sr=8-1&keywords=Beginning.Databases.with.PostgreSQL)，[《PostgreSQL Up and Running》](https://www.amazon.cn/dp/B01JHTJU3M/ref=sr_1_1?ie=UTF8&qid=1520862715&sr=8-1&keywords=postgre)
 
 ## C# ##
 
