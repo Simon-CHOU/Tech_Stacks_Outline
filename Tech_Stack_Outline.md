@@ -123,8 +123,10 @@
 1. [SonarQube](https://www.sonarqube.org/)
 1. [软件测试](https://cn.udacity.com/course/software-testing--cs258)
 1. [DevOps 入门](https://cn.udacity.com/course/intro-to-devops--ud611)
-1. [Software Engineering: Introduction](https://www.edx.org/course/software-engineering-introduction-ubcx-softeng1x)
-1. [DevOps Testing](https://www.edx.org/course/devops-testing-0)
+1. [Software Engineering: Introduction by UBC](https://www.edx.org/course/software-engineering-introduction-ubcx-softeng1x)
+1. [DevOps Testing by Microsoft](https://www.edx.org/course/devops-testing-0)
+1. [AWS  DevOps](https://amazonaws-china.com/cn/devops/)
+1. [Visual Studio What is DevOps](https://www.visualstudio.com/zh-hans/learn/what-is-devops/)，[Alige、Git 和 CI 的 DevOps 学习指南](https://www.visualstudio.com/zh-hans/devops/)
 
 ## Math ##
 
