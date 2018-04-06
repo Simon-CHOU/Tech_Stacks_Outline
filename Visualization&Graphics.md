@@ -37,5 +37,6 @@
 1. [VTK官方教程文档](https://www.vtk.org/Wiki/VTK/Learning_VTK)
 1. [伊利诺伊大学厄巴纳-香槟分校 国家超级计算应用中心 VTK教程讲义](http://www.ncsa.illinois.edu/People/semeraro/PPT/VTK_TUTORIAL/v3_document.htm)
 1. [伊利诺伊大学香槟分校 数据可视化课程](https://www.coursera.org/learn/datavisualization)
+1. [英伟达机器视觉课程](https://courses.nvidia.com/courses)
 
 注：以上链接中，官网的信息绝对权威，但是博客文章的链接也是四处收集得到，对其正确性不作保证。
