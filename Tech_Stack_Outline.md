@@ -150,6 +150,7 @@
 
 ## Big Data ##
 
+1. [伯克利 数据科学基础](https://data.berkeley.edu/education/data-8x)
 1. [微软亚洲研究院大数据系列讲座](http://www.xuetangx.com/courses/course-v1:MicrosoftX+Microsoft101+sp/about)
 
 ## Machine Learning ##
