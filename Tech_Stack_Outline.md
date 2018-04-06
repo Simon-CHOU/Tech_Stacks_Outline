@@ -123,6 +123,8 @@
 1. [SonarQube](https://www.sonarqube.org/)
 1. [软件测试](https://cn.udacity.com/course/software-testing--cs258)
 1. [DevOps 入门](https://cn.udacity.com/course/intro-to-devops--ud611)
+1. [Software Engineering: Introduction](https://www.edx.org/course/software-engineering-introduction-ubcx-softeng1x)
+1. [DevOps Testing](https://www.edx.org/course/devops-testing-0)
 
 ## Math ##
 
@@ -163,6 +165,13 @@
 - [深度学习(中/英)(tensorflow)](https://cn.udacity.com/course/deep-learning--ud730)
 - [吴恩达 Andrew Ng 深度学习公开课](https://www.deeplearning.ai/)
 - [《机器学习》](https://www.amazon.cn/dp/B01ARKEV1G/ref=sr_1_1?ie=UTF8&qid=1513493607&sr=8-1&keywords=%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0)，[《统计学习方法》](https://www.amazon.cn/gp/product/B007TSFMTA/ref=pd_bxgy_14_img_2?ie=UTF8&psc=1&refRID=N576CS4ZT524GND3VJ00)，[《深度学习(deep learning)》](https://www.amazon.cn/gp/product/B073LWHBBY/ref=pd_bxgy_14_img_3?ie=UTF8&psc=1&refRID=N576CS4ZT524GND3VJ00)，[《机器学习实战》](https://www.amazon.cn/gp/product/B00D747PTK/ref=pd_bxgy_14_img_3?ie=UTF8&psc=1&refRID=1RG10AN7J3R6CRWNP2NW)
+- [Matlab 机器学习介绍](https://www.edx.org/course/software-engineering-introduction-ubcx-softeng1x)
+- [MIT AI OpenCourse](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-034-artificial-intelligence-fall-2010/)
+- Intel Academy
+    1. [Students Kit Course1 MachineLearning](https://software.intel.com/en-us/ai-academy/students/kits/machine-learning-501)
+    1. [Students Kit Course2 DeepLearning](https://software.intel.com/en-us/ai-academy/students/kits/deep-learning-501)
+    1. [Students Kits Course3 Tensorflow](https://software.intel.com/en-us/ai-academy/students/kits/tensor-flow-501)
+- [Microsoft AI](https://www.edx.org/course/software-engineering-introduction-ubcx-softeng1x)
 
 ___________________________________________________________________________________________________
 注：上面这些条目，是根据Udacity.com上面这几门课程导言中的“先修知识”部分归纳出来的，缩进越多的表示越有必要先学习。比如，学习了Shell 和 Linux 命令行之后，再Git版本管理就不太会感到异常吃力；学了版本管理、Python，以及两门统计学课程之后，再学习《机器学习入门》，就不太会被库、编码和数学等基础问题所困扰。
