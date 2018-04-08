@@ -45,7 +45,6 @@
 1. [Unix Introduction](http://www.ee.surrey.ac.uk/Teaching/Unix/unixintro.html)
 1. [Filesystem Hierarchy Standard](https://en.wikipedia.org/wiki/Filesystem_Hierarchy_Standard)
 
-
 ## C/C++ ##
 
 1. [cplusplus](http://www.cplusplus.com/)，[MSDN](https://msdn.microsoft.com/zh-cn/)
@@ -125,8 +124,9 @@
 1. [DevOps 入门](https://cn.udacity.com/course/intro-to-devops--ud611)
 1. [Software Engineering: Introduction by UBC](https://www.edx.org/course/software-engineering-introduction-ubcx-softeng1x)
 1. [DevOps Testing by Microsoft](https://www.edx.org/course/devops-testing-0)
-1. [AWS  DevOps](https://amazonaws-china.com/cn/devops/)
 1. [Visual Studio What is DevOps](https://www.visualstudio.com/zh-hans/learn/what-is-devops/)，[Alige、Git 和 CI 的 DevOps 学习指南](https://www.visualstudio.com/zh-hans/devops/)
+1. [AWS University AWSome Day](http://www.xuetangx.com/livecast/microdegree/introduce/3/)
+1. [AWS  DevOps](https://amazonaws-china.com/cn/devops/)
 
 ## Math ##
 
@@ -152,7 +152,8 @@
 
 ## Big Data ##
 
-1. [伯克利 数据科学基础](https://data.berkeley.edu/education/data-8x)
+1. [Foundations of Data Science: Computational Thinking with Python](https://www.edx.org/course/foundations-data-science-computational-uc-berkeleyx-data8-1x)
+1. [伯克利 数据科学基础 Professional Certificate Programs](https://data.berkeley.edu/education/data-8x)
 1. [微软亚洲研究院大数据系列讲座](http://www.xuetangx.com/courses/course-v1:MicrosoftX+Microsoft101+sp/about)
 
 ## Machine Learning ##
