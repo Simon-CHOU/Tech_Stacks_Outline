@@ -127,7 +127,8 @@
 1. [Visual Studio What is DevOps](https://www.visualstudio.com/zh-hans/learn/what-is-devops/)，[Alige、Git 和 CI 的 DevOps 学习指南](https://www.visualstudio.com/zh-hans/devops/)
 1. [AWS University AWSome Day](http://www.xuetangx.com/livecast/microdegree/introduce/3/)
 1. [AWS  DevOps](https://amazonaws-china.com/cn/devops/)
-1. [AWS培训视频:云中DevOps入门与进阶](http://aws.amazon.bokecc.com/news/show-670.html)
+1. [深入：云中DevOps入门与进阶](http://aws.amazon.bokecc.com/news/show-670.html)
+1. [进阶：AWS微服务和无服务器架构入门](http://aws.amazon.bokecc.com/news/show-666.html)
 
 ## Math ##
 
