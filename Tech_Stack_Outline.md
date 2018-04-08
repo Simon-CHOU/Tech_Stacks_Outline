@@ -181,6 +181,7 @@
     1. [Students Kit Course2 DeepLearning](https://software.intel.com/en-us/ai-academy/students/kits/deep-learning-501)
     1. [Students Kits Course3 Tensorflow](https://software.intel.com/en-us/ai-academy/students/kits/tensor-flow-501)
 - [Microsoft AI](https://www.edx.org/course/software-engineering-introduction-ubcx-softeng1x)
+- [AWS Webinars(Amazon AI MXNet 公开课 李沐)](aws.amazon.bokecc.com/news/56/1.html)
 
 ___________________________________________________________________________________________________
 注：上面这些条目，是根据Udacity.com上面这几门课程导言中的“先修知识”部分归纳出来的，缩进越多的表示越有必要先学习。比如，学习了Shell 和 Linux 命令行之后，再Git版本管理就不太会感到异常吃力；学了版本管理、Python，以及两门统计学课程之后，再学习《机器学习入门》，就不太会被库、编码和数学等基础问题所困扰。
