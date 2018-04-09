@@ -107,6 +107,7 @@
 ## C# ##
 
 1. [新手入门 C#](https://mva.microsoft.com/zh-cn/training-courses/-c-8295)
+1. [.Net平台下的软件开发技术 专项课程 西安交大](https://www.coursera.org/specializations/netpingtai-ruanjian-kaifa?siteID=9IqCvd3EEQc-ae4qM_.mf88CmQNs1F9rrA&utm_content=10&utm_medium=partners&utm_source=linkshare&utm_campaign=9IqCvd3EEQc)
 1. [DotNetBookZero11](http://www.charlespetzold.com/dotnet/)
 1. [MSDN C# 指南](https://docs.microsoft.com/zh-cn/dotnet/csharp/)
 
