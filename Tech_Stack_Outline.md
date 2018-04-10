@@ -53,6 +53,7 @@
 1. [清华-程序设计基础](http://www.xuetangx.com/courses/course-v1:TsinghuaX+30240233X_2015_T2+sp/about)，[清华-基于Linux的C++](http://www.xuetangx.com/courses/course-v1:TsinghuaX+20740084X+sp/about)，[VC++面向对象与可视化程序设计（上）：Windows编程基础](http://www.xuetangx.com/courses/course-v1:TsinghuaX+00740113_1X+sp/about)，[VC++面向对象与可视化程序设计（下）：MFC编程基础](http://www.xuetangx.com/courses/course-v1:TsinghuaX+00740113_2X+sp/about)
 1. [LeetCode](https://leetcode.com/)
 1. [poj](http://poj.org/)
+1. [hustoj](http://codeup.hustoj.com/)，[hustoj_github](https://github.com/zhblue/hustoj)
 1. [《程序设计导引及在线实践》](http://vdisk.weibo.com/s/amcPMzUtU13Yb)
 1. [MFC Tutorial](http://www.tutorialspoint.com/mfc/)，[MFC 桌面应用程序](https://msdn.microsoft.com/zh-cn/library/d06h2x6e.aspx)，[Visual C++ User's Guide](https://msdn.microsoft.com/en-us/library/aa232254(v=vs.60).aspx)，[MFC Step-by-Step Guide](http://depts.washington.edu/cmmr/biga/chapter_tutorial/1.C++_MFC_D3DOGL/1.StepByStepGuide/index.html)，[Code Project](https://www.codeproject.com/)，[codeguru](https://www.codeguru.com/)
 1. [《The C Programming Language》](https://www.amazon.cn/dp/B0011425T8/ref=sr_1_1?s=books&ie=UTF8&qid=1513490488&sr=1-1&keywords=c+programming+language)
