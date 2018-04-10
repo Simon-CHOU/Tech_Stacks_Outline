@@ -143,7 +143,7 @@
 1. [微积分重点](http://open.163.com/special/opencourse/weijifen.html)
 1. [微积分基础](https://www.coursera.org/learn/calculus1)
 1. [线性代数](http://open.163.com/special/opencourse/daishu.html)，[线性代数习题课](http://open.163.com/special/opencourse/mitxianxingdaishuxitike.html)，[《线性代数及其应用》](https://www.amazon.cn/dp/B06XW3HZV7/ref=sr_1_1?s=books&ie=UTF8&qid=1513489375&sr=1-1&keywords=%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0%E5%8F%8A%E5%85%B6%E5%BA%94%E7%94%A8)
-1. [离散数学](https://www.coursera.org/learn/discrete-mathematics),[《离散数学及其应用》](https://www.amazon.cn/dp/B01N6QKTOG/ref=sr_1_2?s=books&ie=UTF8&qid=1513489463&sr=1-2&keywords=%E7%A6%BB%E6%95%A3%E6%95%B0%E5%AD%A6%E5%8F%8A%E5%85%B6%E5%BA%94%E7%94%A8)
+1. [离散数学 电子科大](https://www.icourse163.org/course/UESTC-1002268006)、[离散数学 北京交大](https://www.icourse163.org/course/NJTU-1002530017)、[离散数学概论 北大](https://www.icourse163.org/course/PKU-1002525004)[离散数学 上海交大](https://www.coursera.org/learn/discrete-mathematics),[《离散数学及其应用》](https://www.amazon.cn/dp/B01N6QKTOG/ref=sr_1_2?s=books&ie=UTF8&qid=1513489463&sr=1-2&keywords=%E7%A6%BB%E6%95%A3%E6%95%B0%E5%AD%A6%E5%8F%8A%E5%85%B6%E5%BA%94%E7%94%A8)
 1. [数学实验](http://www.xuetangx.com/courses/course-v1:ChongqingU+IPG01002X+sp/about)
 1. [有限元分析与应用](http://www.xuetangx.com/courses/course-v1:TsinghuaX+70120073X+sp/about)
 1. [测试与检测技术基础](http://www.xuetangx.com/courses/course-v1:TsinghuaX+40130653X+sp/about)
