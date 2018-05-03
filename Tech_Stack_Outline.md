@@ -78,7 +78,7 @@
 1. [移动开发中的 UX 设计](https://cn.udacity.com/course/ux-design-for-mobile-developers--ud849)
 1. [《Core Java Ⅰ》](https://www.amazon.cn/dp/B01M06CLQM/ref=sr_1_1?ie=UTF8&qid=1513489657&sr=8-1&keywords=core+java)，[《Core Java Ⅱ》](https://www.amazon.cn/dp/B075VVPLG8/ref=sr_1_2?ie=UTF8&qid=1513489657&sr=8-2&keywords=core+java)，[《Thinking in Java》](https://www.amazon.cn/dp/B0011F7WU4/ref=sr_1_1?ie=UTF8&qid=1513489670&sr=8-1&keywords=thinking+in+java)
 1. [《设计模式解析》](https://www.amazon.cn/dp/B019CRHQ7G/ref=sr_1_1?s=books&ie=UTF8&qid=1513490505&sr=1-1&keywords=%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F%E8%A7%A3%E6%9E%90)，[《大话设计模式》](https://www.amazon.cn/dp/B0011FHN5S/ref=sr_1_1?ie=UTF8&qid=1513838992&sr=8-1&keywords=%E5%A4%A7%E8%AF%9D%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F)，[《重构:改善既有代码的设计》](https://www.amazon.cn/dp/B011LPUB42/ref=sr_1_1?s=books&ie=UTF8&qid=1513490496&sr=1-1&keywords=%E9%87%8D%E6%9E%84)，[《Design Partterns》](https://www.amazon.cn/dp/B001130JN8/ref=sr_1_1?s=books&ie=UTF8&qid=1513490511&sr=1-1&keywords=%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F)，[设计模式|菜鸟教程](http://www.runoob.com/design-pattern/design-pattern-tutorial.html)
-1. [后端架构师技术图谱](https://github.com/xingshaocheng/architect-awesome)
+1. [后端架构师技术图谱](https://github.com/xingshaocheng/architect-awesome)，[互联网公司经典技术架构](https://github.com/davideuler/architecture.of.internet-product)
 
 ## Python ##
 
