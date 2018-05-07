@@ -37,6 +37,7 @@
 1. [Firefox Developer Edition](https://www.mozilla.org/en-US/firefox/developer/)，[Firefox ESR](http://www.firefox.com.cn/download/#more)，[Chrome](http://www.google.cn/chrome/browser/desktop/index.html)
 1. [7zip](http://www.7-zip.org/)
 1. [shadowsocks](https://shadowsocks.org/en/index.html)
+1. [awwapp A Web White Board](https://awwapp.com/)
 
 ## Linux/Unix ##
 
@@ -135,6 +136,7 @@
 1. [AWS  DevOps](https://amazonaws-china.com/cn/devops/)
 1. [深入：云中DevOps入门与进阶](http://aws.amazon.bokecc.com/news/show-670.html)
 1. [进阶：AWS微服务和无服务器架构入门](http://aws.amazon.bokecc.com/news/show-666.html)
+1. [使用 Jenkins、GitHub 和 Docker 在 Azure 中的 Linux VM 上创建开发基础结构](https://docs.azure.cn/zh-cn/virtual-machines/linux/tutorial-jenkins-github-docker-cicd)
 
 ## Math ##
 
