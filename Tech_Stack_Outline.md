@@ -14,6 +14,7 @@
 1. [坚持完成这套学习手册，你就可以去 Google 面试了](http://geek.csdn.net/news/detail/107064)
 1. [提问的智慧](https://ruby-china.org/topics/24325)，[X-Y PROBLEM](https://coolshell.cn/articles/10804.html)
 1. [You should blog even if you have no readers](http://nathanmarz.com/blog/you-should-blog-even-if-you-have-no-readers.html)
+1. [HOW TO PREPARE A TALK](https://www.deconstructconf.com/blog/how-to-prepare-a-talk?utm_source=wanqu.co&utm_campaign=Wanqu+Daily&utm_medium=website)
 
 ## Compiler & Interpreter & IDE & Text Editor & Linux Distribution & other Tools ##
 
