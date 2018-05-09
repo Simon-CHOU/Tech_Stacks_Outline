@@ -15,6 +15,7 @@
 1. [提问的智慧](https://ruby-china.org/topics/24325)，[X-Y PROBLEM](https://coolshell.cn/articles/10804.html)
 1. [You should blog even if you have no readers](http://nathanmarz.com/blog/you-should-blog-even-if-you-have-no-readers.html)
 1. [HOW TO PREPARE A TALK](https://www.deconstructconf.com/blog/how-to-prepare-a-talk?utm_source=wanqu.co&utm_campaign=Wanqu+Daily&utm_medium=website)
+1. [Don't Call Yourself A Programmer, And Other Career Advice](https://www.kalzumeus.com/2011/10/28/dont-call-yourself-a-programmer/)
 
 ## Compiler & Interpreter & IDE & Text Editor & Linux Distribution & other Tools ##
 
