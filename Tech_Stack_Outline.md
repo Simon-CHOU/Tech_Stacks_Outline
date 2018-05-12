@@ -47,6 +47,7 @@
 1. [Linux Survival](https://linuxsurvival.com/)
 1. [Unix Introduction](http://www.ee.surrey.ac.uk/Teaching/Unix/unixintro.html)
 1. [Filesystem Hierarchy Standard](https://en.wikipedia.org/wiki/Filesystem_Hierarchy_Standard)
+1. [Using Emacs Series](https://cestlaz.github.io/stories/emacs/)
 
 ## C/C++ ##
 
