@@ -140,6 +140,7 @@
 1. [AWS  DevOps](https://amazonaws-china.com/cn/devops/)
 1. [深入：云中DevOps入门与进阶](http://aws.amazon.bokecc.com/news/show-670.html)
 1. [进阶：AWS微服务和无服务器架构入门](http://aws.amazon.bokecc.com/news/show-666.html)
+1. [AWS云计算解决方案架构师之路](http://www.xuetangx.com/livecast/microdegree/introduce/3/)
 1. [使用 Jenkins、GitHub 和 Docker 在 Azure 中的 Linux VM 上创建开发基础结构](https://docs.azure.cn/zh-cn/virtual-machines/linux/tutorial-jenkins-github-docker-cicd)
 
 ## Math ##
