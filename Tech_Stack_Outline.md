@@ -92,6 +92,7 @@
 1. [Flask](http://flask.pocoo.org/)，[中文文档](http://docs.jinkan.org/docs/flask/)
 1. [OpenCV](https://opencv.org/)，[OpenCV-Python-tutorials](https://opencv-python-tutroals.readthedocs.io/en/latest/)
 1. [谷歌开源OCR库tesseract](https://github.com/tesseract-ocr/tesseract)
+1. [【微软：数据科学中的Python导论】从Python基础开始，到可视化应用，助你掌握数据科学中的重要工具。](https://prod-edx-mktg-edit.edx.org/course/introduction-to-python-for-data-science)
 
 ## JavaScript ##
 
