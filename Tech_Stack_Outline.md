@@ -90,6 +90,7 @@
 1. [莫烦Python](https://morvanzhou.github.io/)
 1. [Python 3 Doc](https://docs.python.org/3/)
 1. [廖雪峰Python教程](https://www.liaoxuefeng.com/wiki/0014316089557264a6b348958f449949df42a6d3a2e542c000)，[MIT-计算机科学和Python编程导论](http://www.xuetangx.com/courses/course-v1:MITx+6_00_1x+sp/about)
+1. [Python 核心知识体系by数林觅风](https://woaielf.github.io/2018/04/10/python-basic/)
 1. [Flask](http://flask.pocoo.org/)，[中文文档](http://docs.jinkan.org/docs/flask/)
 1. [OpenCV](https://opencv.org/)，[OpenCV-Python-tutorials](https://opencv-python-tutroals.readthedocs.io/en/latest/)
 1. [谷歌开源OCR库tesseract](https://github.com/tesseract-ocr/tesseract)
