@@ -108,7 +108,10 @@
 1. [MEAN Stack ( Angular， MongoDB， Express.js， and Node.js)](https://mva.microsoft.com/learning-path/mean-stack-development-5)
 1. [数据可视化与D3.js(中/英)](https://cn.udacity.com/course/data-visualization-and-d3js--ud507)，[《精通D3.js:交互式数据可视化高级编程》](https://www.amazon.cn/dp/B0147WAXFI/ref=sr_1_fkmr0_1?ie=UTF8&qid=1513494643&sr=8-1-fkmr0&keywords=%E7%B2%BE%E9%80%9AD3js%E4%BA%A4%E4%BA%92%E5%BC%8F%E6%95%B0%E6%8D%AE%E5%8F%AF%E8%A7%86%E5%8C%96%E9%AB%98%E7%BA%A7%E7%BC%96%E7%A8%8B%E5%90%95%E4%B9%8B%E5%8D%8E)，[HighChats](https://www.hcharts.cn/)，[Echats](http://echarts.baidu.com/)
 1. [交互式3D图形](https://cn.udacity.com/course/interactive-3d-graphics--cs291)
-1. [jQuery](http://jquery.com/)，[AngularJS](https://angularjs.org/)，[Vue.js](https://cn.vuejs.org/)，[React](https://reactjs.org/)，[Nodejs](https://nodejs.org/en/)，[菜鸟教程](http://www.runoob.com/)
+1. [jQuery](http://jquery.com/)，[Angular](https://angular.io/)，[Vue.js](https://cn.vuejs.org/)，[React](https://reactjs.org/)，[Nodejs](https://nodejs.org/en/)，[菜鸟教程](http://www.runoob.com/)
+1. [Angular视频教程-大漠穷秋](https://www.bilibili.com/video/av16953560/)
+1. [TypeScript](https://www.tslang.cn/)
+1. [VuePress 由Vue驱动的静态网站生成器](https://vuepress.vuejs.org/zh/)
 1. [Bootstrap](http://www.bootcss.com/)
 
 ## SQL/DB ##
