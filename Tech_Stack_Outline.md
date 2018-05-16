@@ -27,7 +27,7 @@
 1. [Eclipse](http://www.eclipse.org/)，[Maven](http://maven.apache.org/)，[Jetty](http://www.eclipse.org/jetty/)，[Tomcat](http://tomcat.apache.org/),[JUnit](http://junit.org/junit5/),[Checksytle](http://eclipse-cs.sourceforge.net/#!/),[TestNG](http://testng.org/doc/),[EclEmma](http://www.eclemma.org/),[FindBugs](http://findbugs.cs.umd.edu/eclipse/)，[IntelliJ IDEA](https://www.jetbrains.com/idea/)
 1. [PyCharm](https://www.jetbrains.com/pycharm/)
 1. [HBuilder](http://www.dcloud.io/)，[WebStrom](https://www.jetbrains.com/webstorm/)
-1. [Notpad++](https://notepad-plus-plus.org/)，[Emarcs in One Year](https://github.com/redguardtoo/mastering-emacs-in-one-year-guide)，[GNU Emarcs](http://www.gnu.org/software/emacs/)，[Org mode](http://orgmode.org/)，[Atom](https://atom.io/)，[Vim](http://www.vim.org/)，[Sublime Text](https://www.sublimetext.com/)
+1. [Notpad++](https://notepad-plus-plus.org/)，[Emarcs in One Year](https://GitHub.com/redguardtoo/mastering-emacs-in-one-year-guide)，[GNU Emarcs](http://www.gnu.org/software/emacs/)，[Org mode](http://orgmode.org/)，[Atom](https://atom.io/)，[Vim](http://www.vim.org/)，[Sublime Text](https://www.sublimetext.com/)
 1. [Ubuntu](https://www.ubuntu.com/global)，[CentOS](https://www.centos.org/)，[Kali Linux](https://www.kali.org/)，[Debian](https://www.debian.org/)，[Linux Mint](https://www.linuxmint.com/)，[FreeBSD](https://www.freebsd.org/zh_CN/)，[MINIX3](http://www.minix3.org/)，[FreeNOS](http://www.freenos.org/)
 1. [VirtualBox](https://www.virtualbox.org/)
 1. [WireShark](https://www.wireshark.org/)，[Nmap](https://nmap.org/)，[metasploit](https://www.metasploit.com/)，[Burp Suite](https://portswigger.net/burp/)
@@ -40,6 +40,10 @@
 1. [7zip](http://www.7-zip.org/)
 1. [shadowsocks](https://shadowsocks.org/en/index.html)
 1. [awwapp A Web White Board](https://awwapp.com/)
+1. [GitHub Pages](https://pages.GitHub.com/)，[什么是 Github Pages](https://help.github.com/articles/what-is-github-pages/)，[GitHub Pages 自定义域获得对https的支持](https://blog.GitHub.com/2018-05-01-GitHub-pages-custom-domains-https/)
+1. [MkDocs](http://www.mkdocs.org/)，[MkDocs 中文文档](http://markdown-docs-zh.readthedocs.io/zh_CN/latest/)
+1. [ReadDocs 创建托管和浏览文档](https://readthedocs.org/)
+1. [Sphinx Python document generator](http://www.sphinx-doc.org/en/master/),[sphinx_rtd_theme](https://github.com/rtfd/sphinx_rtd_theme)
 
 ## Linux/Unix ##
 
@@ -47,7 +51,7 @@
 1. [Linux Survival](https://linuxsurvival.com/)
 1. [Unix Introduction](http://www.ee.surrey.ac.uk/Teaching/Unix/unixintro.html)
 1. [Filesystem Hierarchy Standard](https://en.wikipedia.org/wiki/Filesystem_Hierarchy_Standard)
-1. [Using Emacs Series](https://cestlaz.github.io/stories/emacs/)
+1. [Using Emacs Series](https://cestlaz.GitHub.io/stories/emacs/)
 
 ## C/C++ ##
 
@@ -57,7 +61,7 @@
 1. [清华-程序设计基础](http://www.xuetangx.com/courses/course-v1:TsinghuaX+30240233X_2015_T2+sp/about)，[清华-基于Linux的C++](http://www.xuetangx.com/courses/course-v1:TsinghuaX+20740084X+sp/about)，[VC++面向对象与可视化程序设计（上）：Windows编程基础](http://www.xuetangx.com/courses/course-v1:TsinghuaX+00740113_1X+sp/about)，[VC++面向对象与可视化程序设计（下）：MFC编程基础](http://www.xuetangx.com/courses/course-v1:TsinghuaX+00740113_2X+sp/about)
 1. [LeetCode](https://leetcode.com/)
 1. [poj](http://poj.org/)
-1. [hustoj](http://codeup.hustoj.com/)，[hustoj_github](https://github.com/zhblue/hustoj)
+1. [hustoj](http://codeup.hustoj.com/)，[hustoj_GitHub](https://GitHub.com/zhblue/hustoj)
 1. [《程序设计导引及在线实践》](http://vdisk.weibo.com/s/amcPMzUtU13Yb)
 1. [MFC Tutorial](http://www.tutorialspoint.com/mfc/)，[MFC 桌面应用程序](https://msdn.microsoft.com/zh-cn/library/d06h2x6e.aspx)，[Visual C++ User's Guide](https://msdn.microsoft.com/en-us/library/aa232254(v=vs.60).aspx)，[MFC Step-by-Step Guide](http://depts.washington.edu/cmmr/biga/chapter_tutorial/1.C++_MFC_D3DOGL/1.StepByStepGuide/index.html)，[Code Project](https://www.codeproject.com/)，[codeguru](https://www.codeguru.com/)
 1. [《The C Programming Language》](https://www.amazon.cn/dp/B0011425T8/ref=sr_1_1?s=books&ie=UTF8&qid=1513490488&sr=1-1&keywords=c+programming+language)
@@ -82,18 +86,18 @@
 1. [移动开发中的 UX 设计](https://cn.udacity.com/course/ux-design-for-mobile-developers--ud849)
 1. [《Core Java Ⅰ》](https://www.amazon.cn/dp/B01M06CLQM/ref=sr_1_1?ie=UTF8&qid=1513489657&sr=8-1&keywords=core+java)，[《Core Java Ⅱ》](https://www.amazon.cn/dp/B075VVPLG8/ref=sr_1_2?ie=UTF8&qid=1513489657&sr=8-2&keywords=core+java)，[《Thinking in Java》](https://www.amazon.cn/dp/B0011F7WU4/ref=sr_1_1?ie=UTF8&qid=1513489670&sr=8-1&keywords=thinking+in+java)
 1. [《设计模式解析》](https://www.amazon.cn/dp/B019CRHQ7G/ref=sr_1_1?s=books&ie=UTF8&qid=1513490505&sr=1-1&keywords=%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F%E8%A7%A3%E6%9E%90)，[《大话设计模式》](https://www.amazon.cn/dp/B0011FHN5S/ref=sr_1_1?ie=UTF8&qid=1513838992&sr=8-1&keywords=%E5%A4%A7%E8%AF%9D%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F)，[《重构:改善既有代码的设计》](https://www.amazon.cn/dp/B011LPUB42/ref=sr_1_1?s=books&ie=UTF8&qid=1513490496&sr=1-1&keywords=%E9%87%8D%E6%9E%84)，[《Design Partterns》](https://www.amazon.cn/dp/B001130JN8/ref=sr_1_1?s=books&ie=UTF8&qid=1513490511&sr=1-1&keywords=%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F)，[设计模式|菜鸟教程](http://www.runoob.com/design-pattern/design-pattern-tutorial.html)
-1. [后端架构师技术图谱](https://github.com/xingshaocheng/architect-awesome)，[互联网公司经典技术架构](https://github.com/davideuler/architecture.of.internet-product)
+1. [后端架构师技术图谱](https://GitHub.com/xingshaocheng/architect-awesome)，[互联网公司经典技术架构](https://GitHub.com/davideuler/architecture.of.internet-product)
 
 ## Python ##
 
 1. [北理Python语言程序设计](https://www.icourse163.org/course/BIT-268001)
-1. [莫烦Python](https://morvanzhou.github.io/)
+1. [莫烦Python](https://morvanzhou.GitHub.io/)
 1. [Python 3 Doc](https://docs.python.org/3/)
 1. [廖雪峰Python教程](https://www.liaoxuefeng.com/wiki/0014316089557264a6b348958f449949df42a6d3a2e542c000)，[MIT-计算机科学和Python编程导论](http://www.xuetangx.com/courses/course-v1:MITx+6_00_1x+sp/about)
-1. [Python 核心知识体系by数林觅风](https://woaielf.github.io/2018/04/10/python-basic/)
+1. [Python 核心知识体系by数林觅风](https://woaielf.GitHub.io/2018/04/10/python-basic/)
 1. [Flask](http://flask.pocoo.org/)，[中文文档](http://docs.jinkan.org/docs/flask/)
 1. [OpenCV](https://opencv.org/)，[OpenCV-Python-tutorials](https://opencv-python-tutroals.readthedocs.io/en/latest/)
-1. [谷歌开源OCR库tesseract](https://github.com/tesseract-ocr/tesseract)
+1. [谷歌开源OCR库tesseract](https://GitHub.com/tesseract-ocr/tesseract)
 1. [【微软：数据科学中的Python导论】从Python基础开始，到可视化应用，助你掌握数据科学中的重要工具。](https://prod-edx-mktg-edit.edx.org/course/introduction-to-python-for-data-science)
 
 ## JavaScript ##
@@ -125,10 +129,10 @@
 
 1. [《构建之法:现代软件工程》](https://www.amazon.cn/dp/B0721V9GMM/ref=sr_1_1?ie=UTF8&qid=1513489124&sr=8-1&keywords=%E6%9E%84%E5%BB%BA%E4%B9%8B%E6%B3%95),[《面向对象软件工程：使用UML、模式与Java》](https://www.amazon.cn/%E9%9D%A2%E5%90%91%E5%AF%B9%E8%B1%A1%E8%BD%AF%E4%BB%B6%E5%B7%A5%E7%A8%8B-%E4%BD%BF%E7%94%A8UML-%E6%A8%A1%E5%BC%8F%E4%B8%8EJava-%E5%B8%83%E5%90%95%E6%A0%BC/dp/B004KPKUHE)
 1. [清华-软件工程](http://www.xuetangx.com/courses/course-v1:TsinghuaX+34100325_X+sp/about)
-1. [Git Tutorial:Try Git](https://try.github.io/levels/1/challenges/1)
-1. [git](https://git-scm.com/)，[《Pro Git 中文版》](http://git.oschina.net/progit/)，[GitHub](https://github.com/)，[码云](https://gitee.com/)，[“创建第一个项目"](http://git.mydoc.io/?t=180676)，[Github Guides](https://guides.github.com/activities/hello-world/)
+1. [Git Tutorial:Try Git](https://try.GitHub.io/levels/1/challenges/1)
+1. [git](https://git-scm.com/)，[《Pro Git 中文版》](http://git.oschina.net/progit/)，[GitHub](https://GitHub.com/)，[码云](https://gitee.com/)，[“创建第一个项目"](http://git.mydoc.io/?t=180676)，[GitHub Guides](https://guides.GitHub.com/activities/hello-world/)
 1. [用 Git 进行版本控制：学习如何跟踪和管理代码修改](https://cn.udacity.com/course/version-control-with-git--ud123)
-1. [GitHub 协作：了解如何使用 Git 与他人合作开发项目](https://cn.udacity.com/course/github-collaboration--ud456)
+1. [GitHub 协作：了解如何使用 Git 与他人合作开发项目](https://cn.udacity.com/course/GitHub-collaboration--ud456)
 1. [mockito](http://site.mockito.org/)，[五分钟了解 mockito](http://liuzhijun.iteye.com/blog/1512780)，[Unit tests with Mockito](http://www.vogella.com/tutorials/Mockito/article.html)
 1. [SeleniumHQ](http://www.seleniumhq.org/)，[Selenium with Python](http://selenium-python.readthedocs.io/)，[《Selenium 2自动化测试实战:基于Python语言》](https://www.amazon.cn/dp/B01AGNUI7A/ref=sr_1_1?s=books&ie=UTF8&qid=1513491458&sr=1-1&keywords=selenium)
 1. [JMeter](http://jmeter.apache.org/)，[JMeter Tutorials](https://www.tutorialspoint.com/jmeter/)，[JMeter 性能测试入门篇](https://www.imooc.com/learn/735)
@@ -144,7 +148,7 @@
 1. [深入：云中DevOps入门与进阶](http://aws.amazon.bokecc.com/news/show-670.html)
 1. [进阶：AWS微服务和无服务器架构入门](http://aws.amazon.bokecc.com/news/show-666.html)
 1. [AWS云计算解决方案架构师之路](http://www.xuetangx.com/livecast/microdegree/introduce/3/)
-1. [使用 Jenkins、GitHub 和 Docker 在 Azure 中的 Linux VM 上创建开发基础结构](https://docs.azure.cn/zh-cn/virtual-machines/linux/tutorial-jenkins-github-docker-cicd)
+1. [使用 Jenkins、GitHub 和 Docker 在 Azure 中的 Linux VM 上创建开发基础结构](https://docs.azure.cn/zh-cn/virtual-machines/linux/tutorial-jenkins-GitHub-docker-cicd)
 
 ## Math ##
 
@@ -177,11 +181,11 @@
 
 ## Machine Learning ##
 
-- [谷歌机器学习科普项目 Teachable Machine](https://teachablemachine.withgoogle.com/),[相关代码](https://github.com/googlecreativelab/teachable-machine)
+- [谷歌机器学习科普项目 Teachable Machine](https://teachablemachine.withgoogle.com/),[相关代码](https://GitHub.com/googlecreativelab/teachable-machine)
 - [机器学习速成课 Google ML Crash Course](https://developers.google.cn/machine-learning/crash-course/)
 - [机器学习入门(中/英)](https://cn.udacity.com/course/intro-to-machine-learning--ud120)
     1. [编程基础：Python](https://cn.udacity.com/course/programming-foundations-with-python--ud036)
-        - [如何使用Git 和 Github](https://cn.udacity.com/course/how-to-use-git-and-github--ud775)
+        - [如何使用Git 和 GitHub](https://cn.udacity.com/course/how-to-use-git-and-GitHub--ud775)
             - [Linux Command Line Basics(Linux 命令行基础)](https://cn.udacity.com/course/linux-command-line-basics--ud595)
                 - [Shell WorkShop (Shell 工作坊)](https://cn.udacity.com/course/shell-workshop--ud206)
     1. [描述统计学入门](https://cn.udacity.com/course/intro-to-descriptive-statistics--ud827)
