@@ -203,6 +203,7 @@
     1. [Students Kit Course2 DeepLearning](https://software.intel.com/en-us/ai-academy/students/kits/deep-learning-501)
     1. [Students Kits Course3 Tensorflow](https://software.intel.com/en-us/ai-academy/students/kits/tensor-flow-501)
 - [Microsoft AI](https://www.edx.org/course/software-engineering-introduction-ubcx-softeng1x)
+- [微软人工智能学院](https://school.azure.cn/curriculums/28)，[Azure School](https://school.azure.cn/)
 - [AWS Webinars(Amazon AI MXNet 公开课 李沐)](aws.amazon.bokecc.com/news/56/1.html)，[动手学深度学习Gluon](http://zh.gluon.ai/),[动手学深度学习第一季课程视频汇总](https://discuss.gluon.ai/t/topic/753)
 
 ___________________________________________________________________________________________________
