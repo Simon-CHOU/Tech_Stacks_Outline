@@ -18,6 +18,8 @@
 1. [You should blog even if you have no readers](http://nathanmarz.com/blog/you-should-blog-even-if-you-have-no-readers.html)
 1. [HOW TO PREPARE A TALK](https://www.deconstructconf.com/blog/how-to-prepare-a-talk?utm_source=wanqu.co&utm_campaign=Wanqu+Daily&utm_medium=website)
 1. [Don't Call Yourself A Programmer, And Other Career Advice](https://www.kalzumeus.com/2011/10/28/dont-call-yourself-a-programmer/)
+1. [代码时间-是一个面向程序员的中文播客节目, 致力于通过语音的方式传播程序员的正能量](http://codetimecn.com/)
+1. [InfoQ-有内容的技术社区媒体](http://v.qq.com/vplus/7452a0fe188310567afa2888d66bd01c/videos)
 
 ## Compiler & Interpreter & IDE & Text Editor & Linux Distribution & other Tools ##
 
