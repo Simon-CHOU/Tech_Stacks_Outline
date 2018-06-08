@@ -10,6 +10,7 @@
 ## 点拨 ##
 
 1. [程序员技术练级攻略](https://coolshell.cn/articles/4990.html)，[程序员练级攻略（2018） 与陈皓的专栏](https://coolshell.cn/articles/18360.html)
+1. [关于“IT学子成长指导”专栏及文章目](https://blog.csdn.net/sxhelijian/article/details/8135028)
 1. [Teach Yourself Programming in Ten Years](https://zhuanlan.zhihu.com/p/30742986#comment-355424436)
 1. [Why Learning to Code is So Damn Hard](http://www.vikingcodeschool.com/posts/why-learning-to-code-is-so-damn-hard)
 1. [坚持完成这套学习手册，你就可以去 Google 面试了](http://geek.csdn.net/news/detail/107064)
