@@ -190,6 +190,7 @@
 
 - [谷歌机器学习科普项目 Teachable Machine](https://teachablemachine.withgoogle.com/),[相关代码](https://GitHub.com/googlecreativelab/teachable-machine)
 - [机器学习速成课 Google ML Crash Course](https://developers.google.cn/machine-learning/crash-course/)
+- [机器学习规则 (Rules of Machine Learning)：关于机器学习工程的最佳实践](https://developers.google.cn/machine-learning/rules-of-ml/)
 - [机器学习入门(中/英)](https://cn.udacity.com/course/intro-to-machine-learning--ud120)
     1. [编程基础：Python](https://cn.udacity.com/course/programming-foundations-with-python--ud036)
         - [如何使用Git 和 GitHub](https://cn.udacity.com/course/how-to-use-git-and-GitHub--ud775)
