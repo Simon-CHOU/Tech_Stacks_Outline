@@ -128,7 +128,7 @@
 1. [PostgreSQL](https://www.postgresql.org/)
 1. [《Beginning.Databases.with.PostgreSQL.From.Novice.to.Professiona》](https://www.amazon.com/Beginning-Databases-PostgreSQL-Novice-Professional/dp/1590594789/ref=sr_1_1?ie=UTF8&qid=1520862945&sr=8-1&keywords=Beginning.Databases.with.PostgreSQL)，[《PostgreSQL Up and Running》](https://www.amazon.cn/dp/B01JHTJU3M/ref=sr_1_1?ie=UTF8&qid=1520862715&sr=8-1&keywords=postgre)
 
-## C
+## C#
 
 1. [新手入门 C#](https://mva.microsoft.com/zh-cn/training-courses/-c-8295)
 1. [.Net 平台下的软件开发技术 专项课程 西安交大](https://www.coursera.org/specializations/netpingtai-ruanjian-kaifa?siteID=9IqCvd3EEQc-ae4qM_.mf88CmQNs1F9rrA&utm_content=10&utm_medium=partners&utm_source=linkshare&utm_campaign=9IqCvd3EEQc)
