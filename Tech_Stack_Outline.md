@@ -128,7 +128,7 @@
 1. [PostgreSQL](https://www.postgresql.org/)
 1. [《Beginning.Databases.with.PostgreSQL.From.Novice.to.Professiona》](https://www.amazon.com/Beginning-Databases-PostgreSQL-Novice-Professional/dp/1590594789/ref=sr_1_1?ie=UTF8&qid=1520862945&sr=8-1&keywords=Beginning.Databases.with.PostgreSQL)，[《PostgreSQL Up and Running》](https://www.amazon.cn/dp/B01JHTJU3M/ref=sr_1_1?ie=UTF8&qid=1520862715&sr=8-1&keywords=postgre)
 
-## C#
+## C
 
 1. [新手入门 C#](https://mva.microsoft.com/zh-cn/training-courses/-c-8295)
 1. [.Net 平台下的软件开发技术 专项课程 西安交大](https://www.coursera.org/specializations/netpingtai-ruanjian-kaifa?siteID=9IqCvd3EEQc-ae4qM_.mf88CmQNs1F9rrA&utm_content=10&utm_medium=partners&utm_source=linkshare&utm_campaign=9IqCvd3EEQc)
@@ -212,7 +212,10 @@
   1. [Students Kits Course3 Tensorflow](https://software.intel.com/en-us/ai-academy/students/kits/tensor-flow-501)
 - [Microsoft AI](https://www.edx.org/course/software-engineering-introduction-ubcx-softeng1x)
 - [微软人工智能学院](https://school.azure.cn/curriculums/28)，[Azure School](https://school.azure.cn/)
-- [AWS Webinars(Amazon AI MXNet 公开课 李沐)](aws.amazon.bokecc.com/news/56/1.html)，[动手学深度学习 Gluon](http://zh.gluon.ai/),[动手学深度学习第一季课程视频汇总](https://discuss.gluon.ai/t/topic/753)
+- [MXNet 李沐：动手学深度学习 Dive into Deep Learning (gluon-tutorals)](http://zh.gluon.ai/),[动手学深度学习第一季课程视频汇总](https://discuss.gluon.ai/t/topic/753)
+  1. [【B 站】](https://space.bilibili.com/209599371/#/channel/detail?cid=23541)
+  1. [【油管】](https://www.youtube.com/playlist?list=PLLbeS1kM6teJqdFzw1ICHfa4a1y0hg8Ax)
+  1. [【百度网盘】](https://pan.baidu.com/s/1mkeilnE#list/path=%2F)
 
 ---
 
