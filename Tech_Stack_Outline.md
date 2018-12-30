@@ -153,6 +153,7 @@
 1. [Software Engineering: Introduction by UBC](https://www.edx.org/course/software-engineering-introduction-ubcx-softeng1x)
 1. [DevOps Testing by Microsoft](https://www.edx.org/course/devops-testing-0)
 1. [Visual Studio What is DevOps](https://www.visualstudio.com/zh-hans/learn/what-is-devops/)，[Alige、Git 和 CI 的 DevOps 学习指南](https://www.visualstudio.com/zh-hans/devops/)
+1. [Terraform + Ansible + Jenkins 自动化 Azure 开发运维](https://www.microsoft.com/china/events/video_326)
 1. [AWS University AWSome Day](http://www.xuetangx.com/livecast/microdegree/introduce/3/)
 1. [AWS DevOps](https://amazonaws-china.com/cn/devops/)
 1. [深入：云中 DevOps 入门与进阶](http://aws.amazon.bokecc.com/news/show-670.html)
