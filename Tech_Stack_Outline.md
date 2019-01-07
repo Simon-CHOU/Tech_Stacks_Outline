@@ -138,7 +138,9 @@
 ## Software Engineering
 
 1. [《构建之法:现代软件工程》](https://www.amazon.cn/dp/B0721V9GMM/ref=sr_1_1?ie=UTF8&qid=1513489124&sr=8-1&keywords=%E6%9E%84%E5%BB%BA%E4%B9%8B%E6%B3%95),[《面向对象软件工程：使用 UML、模式与 Java》](https://www.amazon.cn/%E9%9D%A2%E5%90%91%E5%AF%B9%E8%B1%A1%E8%BD%AF%E4%BB%B6%E5%B7%A5%E7%A8%8B-%E4%BD%BF%E7%94%A8UML-%E6%A8%A1%E5%BC%8F%E4%B8%8EJava-%E5%B8%83%E5%90%95%E6%A0%BC/dp/B004KPKUHE)
-1. [清华-软件工程](http://www.xuetangx.com/courses/course-v1:TsinghuaX+34100325_X+sp/about)
+1. [西工大-软件测试](http://www.xuetangx.com/courses/course-v1:NPUX+2016001+2016_T1/about)
+1. [北理-软件工程与软件自动化](http://www.xuetangx.com/courses/course-v1:BIT+BIT2016001+2016_T2/about)
+1. [中科大-软件设计模式](http://www.xuetangx.com/courses/course-v1:USTC+USTC2006001+2016_T1/about)
 1. [Git Tutorial:Try Git](https://try.GitHub.io/levels/1/challenges/1)
 1. [git](https://git-scm.com/)，[《Pro Git 中文版》](http://git.oschina.net/progit/)，[GitHub](https://GitHub.com/)，[码云](https://gitee.com/)，[“创建第一个项目"](http://git.mydoc.io/?t=180676)，[GitHub Guides](https://guides.GitHub.com/activities/hello-world/)
 1. [用 Git 进行版本控制：学习如何跟踪和管理代码修改](https://cn.udacity.com/course/version-control-with-git--ud123)
