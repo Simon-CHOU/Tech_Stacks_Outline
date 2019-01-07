@@ -141,6 +141,7 @@
 1. [西工大-软件测试](http://www.xuetangx.com/courses/course-v1:NPUX+2016001+2016_T1/about)
 1. [北理-软件工程与软件自动化](http://www.xuetangx.com/courses/course-v1:BIT+BIT2016001+2016_T2/about)
 1. [中科大-软件设计模式](http://www.xuetangx.com/courses/course-v1:USTC+USTC2006001+2016_T1/about)
+1. [南大-软件测试](http://www.icourse163.org/course/NJU-1001773008#/info)
 1. [Git Tutorial:Try Git](https://try.GitHub.io/levels/1/challenges/1)
 1. [git](https://git-scm.com/)，[《Pro Git 中文版》](http://git.oschina.net/progit/)，[GitHub](https://GitHub.com/)，[码云](https://gitee.com/)，[“创建第一个项目"](http://git.mydoc.io/?t=180676)，[GitHub Guides](https://guides.GitHub.com/activities/hello-world/)
 1. [用 Git 进行版本控制：学习如何跟踪和管理代码修改](https://cn.udacity.com/course/version-control-with-git--ud123)
