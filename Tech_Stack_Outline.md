@@ -59,6 +59,8 @@
 
 ## C/C++
 
+1. [Hacking a Google Interview:
+Mastering Programming Interview Questions](http://courses.csail.mit.edu/iap/interview/materials.php)
 1. [cplusplus](http://www.cplusplus.com/)，[MSDN](https://msdn.microsoft.com/zh-cn/)
 1. [程序设计入门——C 语言-翁恺](http://www.icourse163.org/course/ZJU-199001)，[C 语言程序设计进阶-翁恺](http://www.icourse163.org/course/ZJU-200001)
 1. [清华-C++语言程序设计基础](http://www.xuetangx.com/courses/course-v1:TsinghuaX+00740043X_2015_T2+sp/about)，[清华-C++语言程序设计进阶](http://www.xuetangx.com/courses/course-v1:TsinghuaX+00740043_2x_2015_T2+sp/about)，[PKU-C++程序设计](https://www.coursera.org/learn/cpp-chengxu-sheji)
